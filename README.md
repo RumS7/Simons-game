@@ -1,6 +1,7 @@
 🎵 Simon Game
 
-	A fun and interactive Simon Game built using HTML, CSS, JavaScript, and jQuery. The game tests your memory by challenging you to repeat an ever-growing sequence of colors and sounds.
+A fun and interactive Simon Game built using HTML, CSS, JavaScript, and jQuery. The game tests your memory by challenging you to repeat an ever-growing sequence of colors and sounds.
+
 
 🚀 How to Play
 
